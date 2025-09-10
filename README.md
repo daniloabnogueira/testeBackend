@@ -11,11 +11,11 @@ Este repositório contém a solução para a segunda questão do desafio de back
 
 O script realiza as seguintes ações:
 
-  * [cite\_start]Lista todos os arquivos de um diretório de origem (`/home/valcann/backupsFrom`), incluindo nome, tamanho e datas de criação/modificação[cite: 27].
-  * [cite\_start]Salva essa listagem em um arquivo de log (`/home/valcann/backupsFrom.log`)[cite: 28].
-  * [cite\_start]Remove arquivos do diretório de origem com mais de 3 dias de criação[cite: 28].
-  * [cite\_start]Copia os arquivos com 3 dias ou menos para um diretório de destino (`/home/valcann/backupsTo`)[cite: 29].
-  * [cite\_start]Salva um log das operações de cópia em um segundo arquivo (`/home/valcann/backupsTo.log`)[cite: 30].
+  * Lista todos os arquivos de um diretório de origem (`/home/valcann/backupsFrom`), incluindo nome, tamanho e datas de criação/modificação.
+  * Salva essa listagem em um arquivo de log (`/home/valcann/backupsFrom.log`).
+  * Remove arquivos do diretório de origem com mais de 3 dias de criação.
+  * Copia os arquivos com 3 dias ou menos para um diretório de destino (`/home/valcann/backupsTo`).
+  * Salva um log das operações de cópia em um segundo arquivo (`/home/valcann/backupsTo.log`).
 
 ## Pré-requisitos
 
